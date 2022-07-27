@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Christopher. I'm french blockchain developer and NFT Expert. I build many NFTs collections for many peope. 
+My name is Christopher. I'm french blockchain developer. I build many NFTs collections for many people. 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working with the agency named AL Dente, based on Paris. I build NFT collection for luxury brand (Kering, Pucci etc.)

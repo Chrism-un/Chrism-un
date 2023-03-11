@@ -8,9 +8,8 @@ Here are some ideas to get you started:
 
 - I create smart contrract on Ethereum, Polygon and all EVM compatible.
 
-- 📫 How to reach me: Smart contracts, NFT, Blockchain, Web3
+- 👋 Skills : Solidity, Typescript, React.js, HTML5, CSS, Javascript, Smart contracts, NFT, Blockchain, Hardhat, Ganache
 
-- 👋 My Skills : Solidity, React.js, HTML5, CSS, Javascript
 
 
 
